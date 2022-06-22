@@ -1,2 +1,2 @@
-# test-pymongo
+# About this repository
 A simple test using pymongo
